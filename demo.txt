@@ -1,1 +1,2 @@
 I'm adding some random text to this file for the exercise.
+We just used the pull command, let's now use the push command
